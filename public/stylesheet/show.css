@@ -1,0 +1,15 @@
+.thumbanail img{
+    width:100%;
+}
+
+.thumbnail .caption-full{
+    padding:9px;
+}
+
+body{
+    background-color:yellow;
+}
+
+.deleteground{
+    display:inline;
+}
